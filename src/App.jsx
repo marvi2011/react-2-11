@@ -6,7 +6,7 @@ function App() {
 
   return (
     <main className="container mt-3">
-     <h1 className="text-center text-primary">Noticias</h1>
+     <h1 className="text-center text-primary mb-3">Noticias</h1>
      <Formulario></Formulario>
     </main>
   )
